@@ -1,5 +1,3 @@
-# QuestNavigasiMVVM_0009
-Project Pertemuan 6 - Form Isian & Navigasi dengan Jetpack Compose
+# Tampilan Layout
 
-## Deskripsi
-Aplikasi Android sederhana menggunakan Jetpack Compose dan Material 3 untuk menampilkan formulir isian data.
+<img width="268" height="379" alt="image" src="https://github.com/user-attachments/assets/9af41184-af48-4e38-bc5f-52e2953ea7e4" />
